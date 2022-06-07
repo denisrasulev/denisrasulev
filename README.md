@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 This is Work In Progress right now :)
 
+Visit my blog about data processing: (denshub.com)[https://denshub.com/]
+
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
   <br/>
