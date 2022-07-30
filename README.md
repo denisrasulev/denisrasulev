@@ -32,3 +32,5 @@ Visit my blog about data processing: [denshub.com](https://denshub.com/)
       <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=denisrasulev&hide_border=true&theme=nightowl" />
     </p>
 </details>
+
+<a href="https://app.daily.dev/ranklord"><img src="https://api.daily.dev/devcards/34003ccd0c3740588a122789b0a671c1.png?r=9ml" width="400" alt="Denis Rasulev's Dev Card"/></a>
