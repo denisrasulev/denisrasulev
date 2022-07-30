@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Denis Rasulev StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/4440387)](https://stackoverflow.com/users/4440387/denis-rasulev)
+
 This is Work In Progress right now :)
 
 Visit my blog about data processing: [denshub.com](https://denshub.com/)
