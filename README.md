@@ -1,13 +1,13 @@
 ## Hi there 👋
-I'm **Denis Rasulev**, a B2B consultant and passionate data researcher 👨‍💻 from Slovakia 🇸🇰.  
+I'm **Denis Rasulev**, a B2B consultant and passionate data researcher 👨‍💻 from Slovakia 🇸🇰  
 
-Since 1990, I've been helping build B2B sales 🤝 for international companies around the 🌏.  
+Since 1990, I've been helping build B2B sales 🤝 for international companies around the 🌏  
 
 Since 2015, data science and exploration became my passion and hobby, among others.  
 
-Read app reviews, programming, and helpful tips on my blog 👉 [Den's HUB](https://denshub.com/) 👈
+Read app reviews, programming, and various helpful tips on my blog 👉 [Den's HUB](https://denshub.com/) 👈
 
-Сheck out my social profiles and connect with me for mutual inspiration.
+Сheck out my social profiles and connect with me for business and mutual inspiration:
 
 <!-- Use https://shields.io/ to generate badges -->
 
