@@ -7,6 +7,14 @@ Since 2015, data science and exploration became my passion and hobby, among othe
 
 Read app reviews, programming, and various helpful tips on my blog 👉 [Den's HUB](https://denshub.com/) 👈
 
+**Recent posts**:
+
+- 2024-12-25: [MarkItDown: A Document Conversion Tool](https://denshub.com/en/markitdown-doc-conversion-tool/?utm_source=github&utm_medium=link)
+- 2024-11-03: [Workflow Automation Platforms](https://denshub.com/en/workflow-automation-platforms/?utm_source=github&utm_medium=link)
+- 2024-10-12: [Automating Posting to Social Networks](https://denshub.com/en/automating-posting-social-nets/?utm_source=github&utm_medium=link)
+- 2024-09-30: [Learn Git and GitHub](https://denshub.com/en/learn-git-and-github/?utm_source=github&utm_medium=link)
+- 2024-08-17: [Synchronization of .dot files](https://denshub.com/en/how-to-sync-dot-files/?utm_source=github&utm_medium=link)
+
 Сheck out my social profiles and connect with me for business and mutual inspiration:
 
 <!-- Use https://shields.io/ to generate badges -->
