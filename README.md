@@ -9,11 +9,13 @@ Read app reviews, programming, and various helpful tips on my blog 👉 [Den's H
 
 **Recent posts**:
 
+- 2025-02-02: [Best Airtable Alternatives](https://denshub.com/en/best-airtable-alternatives/?utm_source=github&utm_medium=link)
+- 2025-01-25: [How to Fix Markdown Header](https://denshub.com/en/howto-fix-markdown-header/?utm_source=github&utm_medium=link)
+- 2025-01-18: [Introduction to Databases](https://denshub.com/en/beginner-intro-to-databases/?utm_source=github&utm_medium=link)
 - 2025-01-10: [Alfred vs Raycast vs Monarch](https://denshub.com/en/markitdown-doc-conversion-tool/?utm_source=github&utm_medium=link)
 - 2025-01-03: [Top 10 Programming Games](https://denshub.com/en/top-ten-programming-games/?utm_source=github&utm_medium=link)
 - 2024-12-25: [MarkItDown: A Document Conversion Tool](https://denshub.com/en/markitdown-doc-conversion-tool/?utm_source=github&utm_medium=link)
 - 2024-11-03: [Workflow Automation Platforms](https://denshub.com/en/workflow-automation-platforms/?utm_source=github&utm_medium=link)
-- 2024-10-12: [Automating Posting to Social Networks](https://denshub.com/en/automating-posting-social-nets/?utm_source=github&utm_medium=link)
 
 Сheck out my social profiles and connect with me for business and mutual inspiration:
 
