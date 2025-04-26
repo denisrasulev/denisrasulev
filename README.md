@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm **Denis Rasulev**, a B2B consultant and passionate data researcher 👨‍💻 from Slovakia 🇸🇰  
+I'm **Denis Rasulev**, a B2B consultant and passionate tech researcher 👨‍💻 from Slovakia 🇸🇰  
 
 Since 1990, I've been helping build B2B sales 🤝 for international companies around the 🌏  
 
