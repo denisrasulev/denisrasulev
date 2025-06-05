@@ -9,14 +9,11 @@ Read app reviews, programming, and various helpful tips on my blog 👉 [Den's H
 
 **Recent posts**:
 
+- 2025-04-12: [How to Learn Process Automation](https://denshub.com/en/learn-process-automation/)
 - 2025-02-23: [Bookmark Management Tools](https://denshub.com/en/bookmark-management-tools/)
 - 2025-02-14: [Screen Studio for Mac Review](https://denshub.com/en/screen-studio-app-review/)
 - 2025-02-08: [n8n: Workflow Automation](https://denshub.com/en/n8n-workflow-automation/)
 - 2025-02-02: [Best Airtable Alternatives](https://denshub.com/en/best-airtable-alternatives/?utm_source=github&utm_medium=link)
-- 2025-01-25: [How to Fix Markdown Header](https://denshub.com/en/howto-fix-markdown-header/?utm_source=github&utm_medium=link)
-- 2025-01-18: [Introduction to Databases](https://denshub.com/en/beginner-intro-to-databases/?utm_source=github&utm_medium=link)
-- 2025-01-10: [Alfred vs Raycast vs Monarch](https://denshub.com/en/markitdown-doc-conversion-tool/?utm_source=github&utm_medium=link)
-- 2025-01-03: [Top 10 Programming Games](https://denshub.com/en/top-ten-programming-games/?utm_source=github&utm_medium=link)
 
 Сheck out my social profiles and connect with me for business and mutual inspiration:
 
