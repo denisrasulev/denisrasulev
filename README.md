@@ -9,11 +9,11 @@ Read app reviews, programming, and various helpful tips on my blog 👉 [Den's H
 
 **Recent posts**:
 
-- 2025-06-07: [Face Detection and Tracking Models](https://denshub.com/en/face-detection-tracking-models/)
-- 2025-05-25: [OpenRouter vs LiteLLM: Choosing LLM Gateway](https://denshub.com/en/choosing-llm-gateway/)
-- 2025-04-12: [How to Learn Process Automation](https://denshub.com/en/learn-process-automation/)
-- 2025-02-23: [Bookmark Management Tools](https://denshub.com/en/bookmark-management-tools/)
-- 2025-02-08: [n8n: Workflow Automation](https://denshub.com/en/n8n-workflow-automation/)
+- 2025-06-07: [Face Detection and Tracking Models](https://denshub.com/en/face-detection-tracking-models/?utm_source=github&utm_medium=link)
+- 2025-05-25: [OpenRouter vs LiteLLM: Choosing LLM Gateway](https://denshub.com/en/choosing-llm-gateway/?utm_source=github&utm_medium=link)
+- 2025-04-12: [How to Learn Process Automation](https://denshub.com/en/learn-process-automation/?utm_source=github&utm_medium=link)
+- 2025-02-23: [Bookmark Management Tools](https://denshub.com/en/bookmark-management-tools/?utm_source=github&utm_medium=link)
+- 2025-02-08: [n8n: Workflow Automation](https://denshub.com/en/n8n-workflow-automation/?utm_source=github&utm_medium=link)
 - 2025-02-02: [Best Airtable Alternatives](https://denshub.com/en/best-airtable-alternatives/?utm_source=github&utm_medium=link)
 
 Сheck out my social profiles and connect with me for business and mutual inspiration:
