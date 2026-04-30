@@ -5,7 +5,7 @@ Since 1990, I've been helping build B2B sales 🤝 for international companies a
 
 Since 2015, data science and exploration became my passion and hobby, among others.  
 
-Since 2025, I am dedicated to bringing AI and Agentic AI into business.
+Since 2025, I am dedicated to bringing AI and Agentic AI solutions into business.
 
 Read app reviews, programming, and various helpful tips on my blog 👉 [Den's HUB](https://denshub.com/) 👈
 
