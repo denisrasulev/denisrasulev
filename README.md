@@ -17,9 +17,6 @@ Read app reviews, programming, and various helpful tips on my blog 👉 [Den's H
 - 2026-03-30: [Cloudflare Dynamic Workers: Fast Sandboxes for AI Agents](https://denshub.com/en/cloudflare-dynamic-workers-explained/?utm_source=github&utm_medium=link)
 - 2026-02-17: [Top Obsidian Plugins](https://denshub.com/en/top-obsidian-plugins/?utm_source=github&utm_medium=link)
 - 2026-01-20: [Hugo Shortcode for Interactive Tables from CSV Files](https://denshub.com/en/hugo-csv-table-shortcode/?utm_source=github&utm_medium=link)
-- 2025-07-25: [Top Raycast Extensions](https://denshub.com/en/top-raycast-extensions/?utm_source=github&utm_medium=link)
-- 2025-06-07: [Face Detection and Tracking Models](https://denshub.com/en/face-detection-tracking-models/?utm_source=github&utm_medium=link)
-- 2025-05-25: [OpenRouter vs LiteLLM: Choosing LLM Gateway](https://denshub.com/en/choosing-llm-gateway/?utm_source=github&utm_medium=link)
 
 Сheck out my social profiles and connect with me for business and mutual inspiration:
 
