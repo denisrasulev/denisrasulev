@@ -11,6 +11,8 @@ Read app reviews, programming, and various helpful tips on my blog 👉 [Den's H
 
 **Recent posts**:
 
+- 2026-05-19: [How to Update macOS Apps Without MacUpdater](https://denshub.com/en/macupdater-best-alternatives/?utm_source=github&utm_medium=link)
+- 2026-05-06: [Top Seven AI Trends: April 2026](https://denshub.com/en/top-7-ai-trends-april-2026/?utm_source=github&utm_medium=link)
 - 2026-04-05: [Top Seven AI Trends: March 2026](https://denshub.com/en/top-7-ai-trends-march-2026/?utm_source=github&utm_medium=link)
 - 2026-03-30: [Cloudflare Dynamic Workers: Fast Sandboxes for AI Agents](https://denshub.com/en/cloudflare-dynamic-workers-explained/?utm_source=github&utm_medium=link)
 - 2026-02-17: [Top Obsidian Plugins](https://denshub.com/en/top-obsidian-plugins/?utm_source=github&utm_medium=link)
